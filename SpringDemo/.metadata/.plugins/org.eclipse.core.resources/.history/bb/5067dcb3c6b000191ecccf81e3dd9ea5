@@ -1,0 +1,17 @@
+package com.zensar.spring;
+
+import javax.naming.Context;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+/**
+ * Hello world!
+ *
+ */
+public class ZensarApp 
+{
+    public static void main( String[] args )
+    {
+        Context ctx=new ClassPathXmlApplicationContext("Performers.xml");
+    }
+}

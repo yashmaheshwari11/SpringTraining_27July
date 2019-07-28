@@ -1,0 +1,19 @@
+package com.zensar.spring.poems;
+
+public class TwinkleTwinkle implements Poem {
+	
+	private final static String LINES[]= {
+			"Twinkle Twink Little Star",
+			"How I wonder what you are",
+			"up aboce worls so high",
+			"Like a diamond in the sky"
+	}
+	
+	
+	
+	public void recite() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,19 @@
+package com.zensar.spring.performers;
+
+
+/*Author: Yash Maheshwari
+Creation Date: 27-07-2019 12:51PM IST
+Modified Date: 27-07-2019 12:51PM IST
+Version: 1.0
+Copyright: Zensar Technologies. All rights reserved.
+Description: It is a specialized greeting used to Nisham on his birthday.
+*/
+
+public class Juggler implements Performer {
+
+	public void perform() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

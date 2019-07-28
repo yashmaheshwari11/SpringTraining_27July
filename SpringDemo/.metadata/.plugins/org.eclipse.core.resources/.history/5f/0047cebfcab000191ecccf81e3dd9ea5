@@ -1,0 +1,19 @@
+package com.zensar.spring.performers;
+
+
+/*Author: Yash Maheshwari
+Creation Date: 27-07-2019 12:51PM IST
+Modified Date: 27-07-2019 12:51PM IST
+Version: 1.0
+Copyright: Zensar Technologies. All rights reserved.
+Description: More skilled juggler who juggles while reciting a poem.
+Poem is injected into PoeticJuggler usnig constructor injection.
+*/
+public class PoeticJuggler extends Juggler{
+
+	public void perform() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

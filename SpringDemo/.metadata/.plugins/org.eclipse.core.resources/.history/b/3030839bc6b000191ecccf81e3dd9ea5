@@ -1,0 +1,13 @@
+package com.zensar.spring;
+
+/**
+ * Hello world!
+ *
+ */
+public class ZensarApp 
+{
+    public static void main( String[] args )
+    {
+        Context ctx=new ClassPathXmlApplicationContext("Performers.xml");
+    }
+}

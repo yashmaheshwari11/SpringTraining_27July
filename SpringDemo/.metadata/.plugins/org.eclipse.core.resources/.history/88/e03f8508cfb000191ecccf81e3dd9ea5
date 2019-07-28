@@ -1,0 +1,5 @@
+package com.zensar.spring.performer;
+
+public interface performer {
+
+}

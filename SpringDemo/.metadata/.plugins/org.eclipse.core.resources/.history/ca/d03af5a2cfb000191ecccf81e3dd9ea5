@@ -1,0 +1,10 @@
+package com.zensar.spring.performers;
+
+public class Instrumentalist implements performer {
+
+	public void perform() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,15 @@
+package com.zensar.spring;
+
+public class HoliGreeting implements Greeting{
+
+	public HoliGreeting() {
+		System.out.println("Holi greeting created.");
+	}
+	
+	
+	public String sayGreet()
+	{
+		return "Happy Holi Nisham Nisham";
+	}
+}
+

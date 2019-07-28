@@ -1,0 +1,13 @@
+package com.zensar.spring;
+
+public class BirthdayGreeting implements Greeting{
+
+	public BirthdayGreeting() {
+		System.out.println("Birthday greeting created.");
+	}
+	
+	public String sayGreet()
+	{
+		return "HBD";
+	}
+}
